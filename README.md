@@ -51,9 +51,10 @@
 
 ---
 
-<div align="center">
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=Leanddo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanddo&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leanddo/Leanddo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leanddo/Leanddo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leanddo/Leanddo/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a5cfff,100:58A6FFFF&section=footer"/>
